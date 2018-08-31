@@ -45,6 +45,11 @@ And then Add the following line to the php.ini file under "php.ini Options" sect
 
 #System Work Flow
 
+We divided the project into 7 parts.
+Madhuranga initiate the main repository and made the basic laravel app configuration.
+Then all the others fork that repo and then clone it and did their development part. And after that they push it back to their remote repository and sent a pull request to the main repository(MadhurangaWije) where all the pull requested got merged.
+
+
 This blog site consists with two types of users.
    - Admin Users 
          Admin users are the ones who have the power to create new content.
